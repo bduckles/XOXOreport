@@ -3,6 +3,7 @@
 We asked folks “What concerns (if any) do you have as the XOXO Slack winds down?” 
 
 ## Losing the Community
+
 People were very concerned about losing the community that was built. 
 	•	Significant loss of community and support
 	•	I am concerned that I will lose track of folks and the important, silly and entertaining chats we have
@@ -13,7 +14,9 @@ People were very concerned about losing the community that was built.
 	•	The community won’t continue, I’ll no longer be in a vibrant internet community
 
 ## Fragmentation
+
 Folks mentioned worrying about the splintering, fracturing or fragmenting of the community. 
+
 	•	Fragmentation of the community. Or a replacement that doesn't allow for the same breadth of topics and discussions. Discord sucks at threading, and threaded topics keep a lot of the xoxo slack legible and approachable. I just don't want to lose these people, or the quality of the discourse we have.
 	•	I worry that this community will fracture in a way that will eventually fizzle out. We all care where this goes, but that doesn't necessarily make it easy.
 	•	The community splintering a bit (inevitable) as some point just won't migrate to certain platforms probably
