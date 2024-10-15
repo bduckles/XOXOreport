@@ -18,12 +18,10 @@ book:
      A report on engagement in the XOXO Slack Community
 #  cover-image: cover.png
  # favicon: cover.png
-  site-url: 
   repo-url: https://github.com/bduckles/XOXOreport
   repo-branch: main
   repo-actions: [edit, issue]
   sidebar:
-    logo: 
     style: docked
     background: light
     collapse-section: 1
@@ -46,11 +44,3 @@ book:
   #    chapters:
   #    - sections/Impact.md
   #    - sections/ToTheAndys.md
- format:
-  html:
-    theme: 
-      - flatly
-    fontsize: medium 
-  pdf:
-    documentclass: scrbook
-    papersize: a4

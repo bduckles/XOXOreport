@@ -2,3 +2,4 @@
 _output/*
 .DS_Store
 dictionary.dic
+.Rproj.user
