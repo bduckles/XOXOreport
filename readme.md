@@ -1,16 +1,7 @@
-# Astropy Report 
+# XOXO Survey Report 
 
+This is a report for the XOXO Festival Community about a survey that was conducted in October 2024
 
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10603049.svg)](https://doi.org/10.5281/zenodo.10603049)
-
-
-This report was created as part of a project to support the newly hired community manager at Astropy in late 2023. 
-Details of that contract, supported by a grant from the Moore Foundation that supported this work [are in this GitHub Issue](https://github.com/astropy/astropy-project/issues/310#issuecomment-1677899854)
-
-While this report is largely done, we welcome issues that identify typos, or comments and suggestions for future work, either with Astropy or with other organizatinos.  
-
-If you'd like to have Organizatinoal Mycology do similar work with you, get in touch with us via email (info at orgmycology dot com).
 
 ## Dependencies
 
