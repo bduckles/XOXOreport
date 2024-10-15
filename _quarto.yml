@@ -28,7 +28,7 @@ book:
     border: true
   chapters:
     - index.md
-  #  - sections/summary.md
+#    - sections/summary.md
     - part: The Slack 
       chapters:
         - sections/Values.md
@@ -44,3 +44,8 @@ book:
   #    chapters:
   #    - sections/Impact.md
   #    - sections/ToTheAndys.md
+
+format:
+  html:
+    theme: 
+      - flatly
