@@ -1,4 +1,5 @@
 # Introduction
+
 ## What this is 
 
 This is a short, vibe check community survey of the XOXO community. In early October, Andy McMillan and Andy Baio (sometimes collectively referred to as “the Andys”) announced that because the festival had ended this year, they would be closing down the XOXO Slack community that has been going since the beginning of the festival. 
@@ -8,6 +9,7 @@ There was a lot of discussion in the slack and some folks suggested we might wan
 This report is meant to summarize the findings and to pull out key themes so as to start the conversation. 
 
 ## Lower your expectations
+
 I have done a quick organization of the comments for each question into themes as a way to share the information that came from the survey. In each theme, I add a bunch of quotes that describe what I'm seeing.
 
 The qualitative coding/tagging (meaning grouping responses into themes) is rough, imperfect and it was done very quickly. I wanted the community have something fast more than I wanted to perfect it. 
@@ -27,6 +29,7 @@ This may be overwhelming. I am sorry about that. I’ve done my best to summariz
 There are likely a lot of typos. If you feel strongly about this and want to contribute, you are warmly invited to copy edit what I’ve written. However, in this kind of research, I don’t edit what people write in their response to the survey. This means that if there are typos in what people wrote, there are typos in how it is shown here. This is not meant to shame anyone, but rather to preserve what people say and how they say it. I don’t presume I know better how to say what someone else is saying than they do.
 
 ## Gift 
+
 This work is a gift freely given to a community that has given me so so much. 
 
 It is also something I’ve been able to do because I am between projects and I have free time right now as a freelance researcher. 

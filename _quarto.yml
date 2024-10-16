@@ -27,23 +27,23 @@ book:
     collapse-section: 1
     border: true
   chapters:
-    - index.md
-#    - sections/summary.md
+    - intro.md
+    - sections/summary.md
     - part: The Slack 
       chapters:
         - sections/Values.md
         - sections/Appreciate.md
         - sections/Concerns.md
-   # - part: Platforms 
-    #  chapters:
-      #  - sections/Platform.md
-       # - sections/Opportunity.md
-       # - sections/ConcernsPlat.md
-       # - sections/Name.md
- #   - part: Feels
-  #    chapters:
-  #    - sections/Impact.md
-  #    - sections/ToTheAndys.md
+    - part: Platforms 
+      chapters:
+        - sections/Platform.md
+        - sections/Opportunity.md
+        - sections/ConcernsPlat.md
+        - sections/Name.md
+    - part: Feels
+      chapters:
+        - sections/Impact.md
+        - sections/ToTheAndys.md
 
 format:
   html:
